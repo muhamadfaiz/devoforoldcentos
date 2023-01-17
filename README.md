@@ -111,7 +111,7 @@
     #*.* @@remote-host:514
     # ### end of the forwarding rule ###
     ```
-1. Edit Rsyslog startup file
+1. Edit Rsyslog startup file in `/etc/sysconfig/rsyslog`
     ```
     # Options for rsyslogd
     # Syslogd options are deprecated since rsyslog v3.
