@@ -211,5 +211,6 @@
     rsyslogd: Warning: backward compatibility layer added to following directive to rsyslog.conf: ModLoad imuxsock
     rsyslogd: End of config validation run. Bye.
     ````
-
+1. `logger test` output
+![Vivaldi_2023-01-17 17-09-55@2x](https://user-images.githubusercontent.com/125193/212856550-69e83758-1427-4874-a17d-788840406dc1.jpg)
 
